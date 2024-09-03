@@ -1,0 +1,15 @@
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\bin\Debug\Calificacion0.exe.config
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\bin\Debug\Calificacion0.exe
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\bin\Debug\Calificacion0.pdb
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\obj\Debug\Calificacion0.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\obj\Debug\Calificacion0.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\obj\Debug\Calificacion0.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\obj\Debug\Calificacion0.exe
+C:\Users\ALEXANDER\source\repos\Calificacion0\Calificacion0\obj\Debug\Calificacion0.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\bin\Debug\Calificacion0.exe.config
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\bin\Debug\Calificacion0.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\bin\Debug\Calificacion0.pdb
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\obj\Debug\Calificacion0.csproj.AssemblyReference.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\obj\Debug\Calificacion0.csproj.CoreCompileInputs.cache
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\obj\Debug\Calificacion0.exe
+C:\Users\ALEXANDER\OneDrive - SENA\SENA\Trimestre_3\JHON_C#_JFRAME\JHON\C#_NetFramework_Console\Calificacion\Calificacion0\Calificacion0\obj\Debug\Calificacion0.pdb
